@@ -1,0 +1,10 @@
+[user]
+	name = "Michał Śledź"
+	email = "michalsledz34@gmail.com"
+[core]
+	editor = vim
+[alias]
+	lg = log --all --decorate --oneline --graph
+	s = status
+	cma = commit --amend
+	pf = push -f
